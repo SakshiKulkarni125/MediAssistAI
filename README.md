@@ -117,35 +117,6 @@ The system is designed to work with:
 
 ---
 
-## 📈 Project Status
-
-### ✅ Completed
-
-* Project setup
-* Streamlit frontend
-* FastAPI backend
-* Enterprise data organization
-* PDF ingestion pipeline
-* Multi-document loading
-
-### 🚧 In Progress
-
-* Document chunking
-* Embedding generation
-* Vector indexing
-
-### 🔜 Upcoming
-
-* Enterprise RAG
-* MCP integration
-* Multi-agent orchestration
-* Multimodal AI
-* Evaluation framework
-* Dockerization
-* Azure deployment
-
----
-
 ## 🎯 Objective
 
 The goal of MediAssist AI is to simplify healthcare information retrieval by combining structured and unstructured enterprise data into a single intelligent AI assistant capable of supporting doctors, administrators, and healthcare staff.
